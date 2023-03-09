@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Login_Form</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="580b57fcd9996e24bc43c53e.png" />
+    <None Remove="7123025_logo_google_g_icon.png" />
+    <None Remove="Logo-Facebook-PNG-1536x1536.png" />
+    <None Remove="pngfind.com-walmart-logo-png-1226568.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="580b57fcd9996e24bc43c53e.png" />
+    <Resource Include="7123025_logo_google_g_icon.png" />
+    <Resource Include="Logo-Facebook-PNG-1536x1536.png" />
+    <Resource Include="pngfind.com-walmart-logo-png-1226568.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+C:\Users\ASUS\source\repos\Login Form\Login Form\bin\Debug\net6.0-windows\Login Form.exe
+C:\Users\ASUS\source\repos\Login Form\Login Form\bin\Debug\net6.0-windows\Login Form.deps.json
+C:\Users\ASUS\source\repos\Login Form\Login Form\bin\Debug\net6.0-windows\Login Form.runtimeconfig.json
+C:\Users\ASUS\source\repos\Login Form\Login Form\bin\Debug\net6.0-windows\Login Form.dll
+C:\Users\ASUS\source\repos\Login Form\Login Form\bin\Debug\net6.0-windows\Login Form.pdb
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form_MarkupCompile.cache
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form_MarkupCompile.lref
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.g.resources
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.dll
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\refint\Login Form.dll
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.pdb
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\Login Form.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Login Form\Login Form\obj\Debug\net6.0-windows\ref\Login Form.dll
